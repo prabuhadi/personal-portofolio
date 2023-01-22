@@ -34,9 +34,11 @@ export const Skills = () => {
             <div className="skill-bx">
               <h2>Skills</h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.<br></br> Lorem Ipsum has been the industry's standard
-                dummy text.
+                Building website with visually comfortable with stable element
+                of every aspect of website.<br></br> Some core should be user
+                friendly, easy to structure, simple to manage and fast, so that
+                it is easy to do navigation using it.<br></br> So, the core is
+                design program which I usually use in my projects.
               </p>
               <Carousel
                 responsive={responsive}
