@@ -54,6 +54,7 @@ export const Banner = () => {
               {`Hi! I'm Prabu Hadi`}
               <br></br>
               <span className="wrap">{text}</span>
+              <span>_</span>
             </h1>
             <p>
               I'm front-end developer and back-end developer based in West Java,
