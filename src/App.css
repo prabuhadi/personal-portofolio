@@ -252,6 +252,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
+  height: 100vh;
 }
 .banner .tagline {
   font-weight: 700;
@@ -274,6 +275,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   line-height: 1;
   margin-bottom: 20px;
   display: block;
+  padding: 18px;
 }
 .banner p {
   color: #b8b8b8;
@@ -334,6 +336,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill h2 {
   font-size: 45px;
   font-weight: 700;
+  padding-bottom: 20px;
 }
 .skill p {
   color: #b8b8b8;
@@ -360,17 +363,69 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   z-index: -4;
 }
 
+/*///////////// About Section /////////////*/
+
+.about {
+  padding: 92px 0;
+  margin-top: -40px;
+}
+.about h2 {
+  font-size: 45px;
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.about img {
+  border-radius: 50%;
+  width: 260px;
+}
+.about a {
+  font-style: none;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  padding: 8px 10px;
+  background: linear-gradient(
+    90.21deg,
+    rgba(170, 54, 124, 0.5) -5.91%,
+    rgba(74, 47, 189, 0.5) 111.58%
+  );
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  font-size: 20px;
+  margin: 36px 0;
+  display: inline-block;
+}
+.about p {
+  color: #b8b8b8;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  width: 96%;
+  text-align: justify;
+  padding-top: 60px;
+}
+.background-image-right {
+  top: 20%;
+  position: absolute;
+  bottom: 0;
+  width: 35%;
+  right: 0;
+  z-index: -4;
+}
+
 /*///////////// Projects Section /////////////*/
 
 .project {
   padding: 80px 0;
   position: relative;
-  background-color: black;
+  /* background-color: black; */
 }
 .project h2 {
   font-size: 45px;
   font-weight: 700;
   text-align: center;
+  padding-bottom: 20px;
 }
 .project p {
   color: #b8b8b8;
