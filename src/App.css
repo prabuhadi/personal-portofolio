@@ -426,7 +426,6 @@ a:visited {
 .project {
   padding: 80px 0 160px 0;
   position: relative;
-  z-index: -1;
   /* background-color: black; */
 }
 .project h2 {
