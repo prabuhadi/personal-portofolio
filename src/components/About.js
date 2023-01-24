@@ -9,7 +9,7 @@ export const About = () => {
         <Row className="align-items-center mb-5">
           <h2>About Me</h2>
           <Col xs={12} md={6} xl={5}>
-            <img src={profileImage} alt="About img" />
+            <img className="profileImg" src={profileImage} alt="About img" />
           </Col>
           <Col xs={12} md={6} xl={7}>
             <p>

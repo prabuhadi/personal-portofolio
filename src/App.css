@@ -368,6 +368,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .about {
   padding: 92px 0;
   margin-top: -40px;
+  position: relative;
 }
 .about h2 {
   font-size: 45px;
@@ -375,7 +376,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   text-align: center;
   padding-bottom: 40px;
 }
-.about img {
+.profileImg {
   border-radius: 50%;
   width: 260px;
 }
@@ -417,6 +418,7 @@ a:visited {
   width: 35%;
   right: 0;
   z-index: -4;
+  /* border-radius: 0 !important; */
 }
 
 /*///////////// Projects Section /////////////*/
