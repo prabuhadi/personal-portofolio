@@ -25,32 +25,32 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Website",
+      title: "E-Commerce Food",
       description: "Design & Development",
       imgUrl: projImg2,
     },
     {
-      title: "E-Commerce Website",
-      description: "Design & Development",
+      title: "Furniture Website",
+      description: "Layout Card Design",
       imgUrl: projImg14,
     },
     {
-      title: "E-Commerce Website",
-      description: "Design & Development",
+      title: "Travel Website",
+      description: "Design Video Landing Page",
       imgUrl: projImg16,
     },
     {
-      title: "E-Commerce Website",
+      title: "Chair Shop",
       description: "Design & Development",
       imgUrl: projImg11,
     },
     {
-      title: "E-Commerce Website",
-      description: "Design & Development",
+      title: "Tech Crunch",
+      description: "Development & Tech Consultant",
       imgUrl: projImg5,
     },
     {
-      title: "E-Commerce Website",
+      title: "E-Commerce Food",
       description: "Design & Development",
       imgUrl: projImg7,
     },
@@ -58,32 +58,32 @@ export const Projects = () => {
 
   const projects2 = [
     {
-      title: "E-Commerce Website",
+      title: "Landing Page",
       description: "Design & Development",
       imgUrl: projImg13,
     },
     {
-      title: "E-Commerce Website",
+      title: "Chair Shop",
       description: "Design & Development",
       imgUrl: projImg12,
     },
     {
-      title: "E-Commerce Website",
+      title: "E-Commerce Food",
       description: "Design & Development",
       imgUrl: projImg8,
     },
     {
-      title: "E-Commerce Website",
+      title: "Travel Website",
       description: "Design & Development",
       imgUrl: projImg17,
     },
     {
-      title: "E-Commerce Website",
+      title: "Forum HTML5",
       description: "Design & Development",
       imgUrl: projImg9,
     },
     {
-      title: "E-Commerce Website",
+      title: "Landing Page",
       description: "Design & Development",
       imgUrl: projImg15,
     },
@@ -91,17 +91,17 @@ export const Projects = () => {
 
   const projects3 = [
     {
-      title: "E-Commerce Website",
+      title: "Travel Website",
       description: "Design & Development",
       imgUrl: projImg18,
     },
     {
-      title: "E-Commerce Website",
+      title: "HariSenin.com",
       description: "Design & Development",
       imgUrl: projImg1,
     },
     {
-      title: "E-Commerce Website",
+      title: "Email Layout",
       description: "Design & Development",
       imgUrl: projImg10,
     },
